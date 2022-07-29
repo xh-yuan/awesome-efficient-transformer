@@ -11,6 +11,7 @@
 ### Surveys
 
 * 2022 | IEEE | Han, K., Wang, Y., Chen, H., Chen, X., Guo, J., Liu, Z., Tang, Y., Xiao, A., Xu, C., Xu, Y. and Yang, Z., 2022. A survey on vision transformer. *IEEE transactions on pattern analysis and machine intelligence*.
+* 2021 | arXiv | Fournier, Q., Caron, G.M. and Aloise, D., 2021. A practical survey on faster and lighter transformers. *arXiv preprint arXiv:2103.14636*.
 
 * 2020 | ACM | Tay, Y., Dehghani, M., Bahri, D. and Metzler, D., 2020. Efficient transformers: A survey. *ACM Computing Surveys (CSUR)*.
 
@@ -18,9 +19,11 @@
 
 #### depth
 
+* 2022 | CSL |Sajjad, H., Dalvi, F., Durrani, N. and Nakov, P., 2022. On the effect of dropping layers of pre-trained transformer models. *Computer Speech & Language*, p.101429.
 * 2020 | NIPS | Hou, L., Huang, Z., Shang, L., Jiang, X., Chen, X. and Liu, Q., 2020. Dynabert: Dynamic bert with adaptive width and depth. *Advances in Neural Information Processing Systems*, *33*, pp.9782-9793.
 
 * 2020 | ICLR | Fan, A., Grave, E. and Joulin, A., 2019. Reducing transformer depth on demand with structured dropout. *arXiv preprint arXiv:1909.11556*.
+* 
 
 #### width
 
