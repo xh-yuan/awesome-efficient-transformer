@@ -23,10 +23,10 @@
 * 2020 | NIPS | Hou, L., Huang, Z., Shang, L., Jiang, X., Chen, X. and Liu, Q., 2020. Dynabert: Dynamic bert with adaptive width and depth. *Advances in Neural Information Processing Systems*, *33*, pp.9782-9793.
 
 * 2020 | ICLR | Fan, A., Grave, E. and Joulin, A., 2019. Reducing transformer depth on demand with structured dropout. *arXiv preprint arXiv:1909.11556*.
-* 
 
 #### width
 
+* 2022 | AAAI | Xu, Y., Zhang, Z., Zhang, M., Sheng, K., Li, K., Dong, W., Zhang, L., Xu, C. and Sun, X., 2022, June. Evo-vit: Slow-fast token evolution for dynamic vision transformer. In *Proceedings of the AAAI Conference on Artificial Intelligence* (Vol. 36, No. 3, pp. 2964-2972).
 * 2021 | KDD | Zhu, M., Tang, Y. and Han, K., 2021. Vision transformer pruning. *arXiv preprint arXiv:2104.08500*.
 
 * 2020 | EMNLP | Prasanna, S., Rogers, A. and Rumshisky, A., 2020. When bert plays the lottery, all tickets are winning. *arXiv preprint arXiv:2005.00561*.
@@ -59,6 +59,9 @@
 
 ### Architecture Design
 
+* 2022 | CVPR | Chen, Y., Dai, X., Chen, D., Liu, M., Dong, X., Yuan, L. and Liu, Z., 2022. Mobile-former: Bridging mobilenet and transformer. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition* (pp. 5270-5279).
+* 2022 | CVPR | Yu, W., Luo, M., Zhou, P., Si, C., Zhou, Y., Wang, X., Feng, J. and Yan, S., 2022. Metaformer is actually what you need for vision. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition* (pp. 10819-10829).
+* 2022 | CVPR | Arar, M., Shamir, A. and Bermano, A.H., 2022. Learned Queries for Efficient Local Attention. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition* (pp. 10841-10852).
 * 2021 | ICLR | Geng, Z., Guo, M.H., Chen, H., Li, X., Wei, K. and Lin, Z., 2021. Is attention better than matrix decomposition?. *arXiv preprint arXiv:2109.04553*.
 * 2021 | ICCV | Li, C., Tang, T., Wang, G., Peng, J., Wang, B., Liang, X. and Chang, X., 2021. Bossnas: Exploring hybrid cnn-transformers with block-wisely self-supervised neural architecture search. In *Proceedings of the IEEE/CVF International Conference on Computer Vision* (pp. 12281-12291).
 * 2021 | arXiv | Su, X., You, S., Xie, J., Zheng, M., Wang, F., Qian, C., Zhang, C., Wang, X. and Xu, C., 2021. Vision transformer architecture search. *arXiv e-prints*, pp.arXiv-2106.
