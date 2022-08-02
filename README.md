@@ -17,17 +17,14 @@
 
 ### Pruning
 
-#### depth
-
+* 2022 | CVPR | Chavan, A., Shen, Z., Liu, Z., Liu, Z., Cheng, K.T. and Xing, E.P., 2022. Vision transformer slimming: Multi-dimension searching in continuous optimization space. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition* (pp. 4931-4941).
+* 2022 | ACL | Xia, M., Zhong, Z. and Chen, D., 2022. Structured pruning learns compact and accurate models. *arXiv preprint arXiv:2204.00408*.
 * 2022 | CSL |Sajjad, H., Dalvi, F., Durrani, N. and Nakov, P., 2022. On the effect of dropping layers of pre-trained transformer models. *Computer Speech & Language*, p.101429.
+* 2022 | AAAI | Xu, Y., Zhang, Z., Zhang, M., Sheng, K., Li, K., Dong, W., Zhang, L., Xu, C. and Sun, X., 2022, June. Evo-vit: Slow-fast token evolution for dynamic vision transformer. In *Proceedings of the AAAI Conference on Artificial Intelligence* (Vol. 36, No. 3, pp. 2964-2972).
+* 2021 | KDD | Zhu, M., Tang, Y. and Han, K., 2021. Vision transformer pruning. *arXiv preprint arXiv:2104.08500*.
 * 2020 | NIPS | Hou, L., Huang, Z., Shang, L., Jiang, X., Chen, X. and Liu, Q., 2020. Dynabert: Dynamic bert with adaptive width and depth. *Advances in Neural Information Processing Systems*, *33*, pp.9782-9793.
 
 * 2020 | ICLR | Fan, A., Grave, E. and Joulin, A., 2019. Reducing transformer depth on demand with structured dropout. *arXiv preprint arXiv:1909.11556*.
-
-#### width
-
-* 2022 | AAAI | Xu, Y., Zhang, Z., Zhang, M., Sheng, K., Li, K., Dong, W., Zhang, L., Xu, C. and Sun, X., 2022, June. Evo-vit: Slow-fast token evolution for dynamic vision transformer. In *Proceedings of the AAAI Conference on Artificial Intelligence* (Vol. 36, No. 3, pp. 2964-2972).
-* 2021 | KDD | Zhu, M., Tang, Y. and Han, K., 2021. Vision transformer pruning. *arXiv preprint arXiv:2104.08500*.
 
 * 2020 | EMNLP | Prasanna, S., Rogers, A. and Rumshisky, A., 2020. When bert plays the lottery, all tickets are winning. *arXiv preprint arXiv:2005.00561*.
 
@@ -39,8 +36,8 @@
 
 * 2021 | NIPS | Liu, Z., Wang, Y., Han, K., Zhang, W., Ma, S. and Gao, W., 2021. Post-training quantization for vision transformer. *Advances in Neural Information Processing Systems*, *34*, pp.28092-28103.
 * 2020 | EMNLP | Shridhar, K., Jain, H., Agarwal, A. and Kleyko, D., 2020, November. End to end binarized neural networks for text classification. In *Proceedings of SustaiNLP: Workshop on Simple and Efficient Natural Language Processing* (pp. 29-34).
-* 2020 | NLPCC | Zhao, Z., Liu, Y., Chen, L., Liu, Q., Ma, R. and Yu, K., 2020, October. An investigation on different underlying quantization schemes for pre-trained language models. In *CCF International Conference on Natural Language Processing and Chinese Computing* (pp. 359-371). Springer, Cham.
 * 2020 | EMNLP | Prato, G., Charlaix, E. and Rezagholizadeh, M., 2019. Fully quantized transformer for machine translation. *arXiv preprint arXiv:1910.10485*.
+* 2020 | NLPCC | Zhao, Z., Liu, Y., Chen, L., Liu, Q., Ma, R. and Yu, K., 2020, October. An investigation on different underlying quantization schemes for pre-trained language models. In *CCF International Conference on Natural Language Processing and Chinese Computing* (pp. 359-371). Springer, Cham.
 * 2019 | Cheong, R. and Daniel, R., 2019. transformers. zip: Compressing Transformers with Pruning and Quantization. *Technical report, tech. rep., Stanford University, Stanford, California*.
 * 
 
@@ -66,9 +63,9 @@
 * 2021 | ICCV | Li, C., Tang, T., Wang, G., Peng, J., Wang, B., Liang, X. and Chang, X., 2021. Bossnas: Exploring hybrid cnn-transformers with block-wisely self-supervised neural architecture search. In *Proceedings of the IEEE/CVF International Conference on Computer Vision* (pp. 12281-12291).
 * 2021 | arXiv | Su, X., You, S., Xie, J., Zheng, M., Wang, F., Qian, C., Zhang, C., Wang, X. and Xu, C., 2021. Vision transformer architecture search. *arXiv e-prints*, pp.arXiv-2106.
 * 2020 | NIPS | Jiang, Z.H., Yu, W., Zhou, D., Chen, Y., Feng, J. and Yan, S., 2020. Convbert: Improving bert with span-based dynamic convolution. *Advances in Neural Information Processing Systems*, *33*, pp.12837-12848.
-* 2020 | ICML | Katharopoulos, A., Vyas, A., Pappas, N. and Fleuret, F., 2020, November. Transformers are rnns: Fast autoregressive transformers with linear attention. In *International Conference on Machine Learning* (pp. 5156-5165). PMLR.
 * 2020 | NIPS | Yun, C., Chang, Y.W., Bhojanapalli, S., Rawat, A.S., Reddi, S. and Kumar, S., 2020. O (n) connections are expressive enough: Universal approximability of sparse transformers. *Advances in Neural Information Processing Systems*, *33*, pp.13783-13794.
 * 2020 | NIPS | Zaheer, M., Guruganesh, G., Dubey, K.A., Ainslie, J., Alberti, C., Ontanon, S., Pham, P., Ravula, A., Wang, Q., Yang, L. and Ahmed, A., 2020. Big bird: Transformers for longer sequences. *Advances in Neural Information Processing Systems*, *33*, pp.17283-17297.
+* 2020 | ICML | Katharopoulos, A., Vyas, A., Pappas, N. and Fleuret, F., 2020, November. Transformers are rnns: Fast autoregressive transformers with linear attention. In *International Conference on Machine Learning* (pp. 5156-5165). PMLR.
 * 2019 | NIPS | Guo, Y., Zheng, Y., Tan, M., Chen, Q., Chen, J., Zhao, P. and Huang, J., 2019. Nat: Neural architecture transformer for accurate and compact architectures. *Advances in Neural Information Processing Systems*, *32*.
 * 2019 | LCML | So, D., Le, Q. and Liang, C., 2019, May. The evolved transformer. In *International Conference on Machine Learning* (pp. 5877-5886). PMLR.
 
