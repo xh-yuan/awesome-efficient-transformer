@@ -15,6 +15,8 @@
 
 * 2020 | ACM | Tay, Y., Dehghani, M., Bahri, D. and Metzler, D., 2020. Efficient transformers: A survey. *ACM Computing Surveys (CSUR)*.
 
+  
+
 ### Pruning
 
 * 2022 | CVPR | Chavan, A., Shen, Z., Liu, Z., Liu, Z., Cheng, K.T. and Xing, E.P., 2022. Vision transformer slimming: Multi-dimension searching in continuous optimization space. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition* (pp. 4931-4941).
@@ -35,11 +37,16 @@
 ### Quantization
 
 * 2021 | NIPS | Liu, Z., Wang, Y., Han, K., Zhang, W., Ma, S. and Gao, W., 2021. Post-training quantization for vision transformer. *Advances in Neural Information Processing Systems*, *34*, pp.28092-28103.
+
 * 2020 | EMNLP | Shridhar, K., Jain, H., Agarwal, A. and Kleyko, D., 2020, November. End to end binarized neural networks for text classification. In *Proceedings of SustaiNLP: Workshop on Simple and Efficient Natural Language Processing* (pp. 29-34).
+
 * 2020 | EMNLP | Prato, G., Charlaix, E. and Rezagholizadeh, M., 2019. Fully quantized transformer for machine translation. *arXiv preprint arXiv:1910.10485*.
+
 * 2020 | NLPCC | Zhao, Z., Liu, Y., Chen, L., Liu, Q., Ma, R. and Yu, K., 2020, October. An investigation on different underlying quantization schemes for pre-trained language models. In *CCF International Conference on Natural Language Processing and Chinese Computing* (pp. 359-371). Springer, Cham.
+
 * 2019 | Cheong, R. and Daniel, R., 2019. transformers. zip: Compressing Transformers with Pruning and Quantization. *Technical report, tech. rep., Stanford University, Stanford, California*.
-* 
+
+  
 
 ### Decomposition
 
@@ -51,8 +58,12 @@
 ### Knowledge Distillation
 
 * 2020 | ACL | Mukherjee, S. and Awadallah, A., 2020. XtremeDistil: Multi-stage distillation for massive multilingual models. *arXiv preprint arXiv:2004.05686*.
+
 * 2020 | NIPS | Wang, W., Wei, F., Dong, L., Bao, H., Yang, N. and Zhou, M., 2020. Minilm: Deep self-attention distillation for task-agnostic compression of pre-trained transformers. *Advances in Neural Information Processing Systems*, *33*, pp.5776-5788.
+
 * 2020 | arXiv | Jia, D., Han, K., Wang, Y., Tang, Y., Guo, J., Zhang, C. and Tao, D., 2021. Efficient vision transformers via fine-grained manifold distillation. *arXiv preprint arXiv:2107.01378*.
+
+  
 
 ### Architecture Design
 
